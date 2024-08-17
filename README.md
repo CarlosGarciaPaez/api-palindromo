@@ -5,7 +5,7 @@ Este microservicio recibe un JSON de entrada con una cadena de texto y devuelve 
 
 - lengthCadena: La longitud total de la cadena ingresada.
 
-- isPalindromo: Indica si la cadena ingresada es un palíndromo (1 para verdadero, 0 para falso).
+- isPalindromo: Indica si la cadena ingresada es un palíndromo.
 
 - lengthCaracteresEspeciales: La cantidad de caracteres especiales presentes en la cadena (aquellos que no son letras ni números).
 

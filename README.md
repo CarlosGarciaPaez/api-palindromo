@@ -36,3 +36,7 @@ Spring Boot
 
 Maven
 
+
+## Imagen de Ejemplo en Postman
+![Ejemplo prueba en postman](images/palindromo.png)
+
